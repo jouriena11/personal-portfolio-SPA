@@ -9,7 +9,7 @@ hr {
 }
 
 .main-bg-img {
-  background-color: rgba(125, 216, 226, 0.8);
+  background-color: rgba(215, 227, 230, 1);
   background-blend-mode: overlay;
   background-image: url("../../public/img/full-stack-portfolio-banner_1920px.png");
   background-size: cover;
@@ -28,5 +28,7 @@ hr {
 }
 
 .overlay-bg {
-  background-color: var(--primary-color);
+  background-color: rgba(255,255,255,0.5);
+  background-blend-mode: overlay;
 }
+

@@ -50,7 +50,7 @@ export default function Contact() {
 
     // TODO: replace alert with modal
     // TODO: to use nodemailer to send an email to personal gmail account
-    
+
     alert("Thank you for contacting me. I will reply to you shortly.");
 
     setName("");
@@ -58,71 +58,73 @@ export default function Contact() {
     setMessage("");
   };
 
-  // TODO: to add Bootstrap card 
-  // TODO: to add page title
   return (
-    <div className="main-bg-img">
-      <form className="px-5 py-3">
-        <div className="mb-3">
-          <label
-            htmlFor="contact-form-name-input"
-            className="form-label fw-bold"
-          >
-            Name
-          </label>
-          <div className="col-lg-3">
-            <input
-              value={name}
-              name="name"
-              onChange={handleInputChange}
-              type="text"
-              className="form-control"
-            />
+    <div className="main-bg-img px-5 py-3">
+      <div>
+        <h2 className="fw-bold">Contact</h2>
+        <hr className="w-50 mx-0 my-3 border-2" />
+        <form className="">
+          <div className="mb-3">
+            <label
+              htmlFor="contact-form-name-input"
+              className="form-label fw-bold bg-white px-1 py-1 rounded-3"
+            >
+              Name
+            </label>
+            <div className="col-lg-3">
+              <input
+                value={name}
+                name="name"
+                onChange={handleInputChange}
+                type="text"
+                className="form-control"
+              />
+            </div>
           </div>
-        </div>
-        <div className="mb-3">
-          <label
-            htmlFor="contact-form-email-input"
-            className="form-label fw-bold"
-          >
-            Email
-          </label>
-          <div className="col-lg-3">
-            <input
-              value={email}
-              name="email"
-              onChange={handleInputChange}
-              type="email"
-              className="form-control"
-            />
+          <div className="mb-3">
+            <label
+              htmlFor="contact-form-email-input"
+              className="form-label fw-bold bg-white px-1 py-1 rounded-3"
+            >
+              Email
+            </label>
+            <div className="col-lg-3">
+              <input
+                value={email}
+                name="email"
+                onChange={handleInputChange}
+                type="email"
+                className="form-control"
+              />
+            </div>
           </div>
-        </div>
-        <div className="mb-3">
-          <label
-            htmlFor="contact-form-message-input"
-            className="form-label fw-bold"
-          >
-            Message
-          </label>
-          <div className="col-lg-6">
-            <textarea
-              value={message}
-              name="message"
-              onChange={handleInputChange}
-              type="text"
-              className="form-control"
-              rows="10"
-            />
+          <div className="mb-3">
+            <label
+              htmlFor="contact-form-message-input"
+              className="form-label fw-bold bg-white px-1 py-1 rounded-3"
+            >
+              Message
+            </label>
+            <div className="col-lg-6">
+              <textarea
+                value={message}
+                name="message"
+                onChange={handleInputChange}
+                type="text"
+                className="form-control"
+                rows="10"
+              />
+            </div>
           </div>
-        </div>
-        <button
-          type="submit"
-          onClick={handleFormSubmit}
-          className="btn btn-info text-white fw-bold my-2"
-        >
-          Send
-        </button>
-      </form>
+          <button
+            type="submit"
+            onClick={handleFormSubmit}
+            className="btn btn-info text-white fw-bold my-2"
+          >
+            Send
+          </button>
+        </form>
+      </div>
       {errorMessage && (
         <div>
           <p className="text-danger fw-bold mx-5 mb-4">{errorMessage}</p>
