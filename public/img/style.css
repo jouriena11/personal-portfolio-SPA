@@ -1,0 +1,25 @@
+* {
+    font-family: 'Lato', 'Trebuchet MS', Helvetica, sans-serif;
+    scroll-behavior: smooth;
+    --primary-color: #00a3a3;
+}
+
+.title-font {
+    font-family: 'Lato', 'Trebuchet MS', Helvetica, sans-serif;
+    font-size: 1.1rem;
+    letter-spacing: 0.1rem;
+}
+
+.letter-space {
+    letter-spacing: 0.1rem;
+}
+
+.menu-styles {
+    color: black;
+}
+
+.homepage-desktop-banner {
+    /* TODO: mobile version of the image */
+    object-fit: cover; 
+    
+}

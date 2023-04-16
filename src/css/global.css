@@ -1,0 +1,32 @@
+* {
+  font-family: "Lato", "Trebuchet MS", Helvetica, sans-serif;
+  --primary-color: rgb(125, 216, 226);
+}
+
+hr {
+  width: 80%;
+  margin: auto;
+}
+
+.main-bg-img {
+  background-color: rgba(125, 216, 226, 0.8);
+  background-blend-mode: overlay;
+  background-image: url("../../public/img/full-stack-portfolio-banner_1920px.png");
+  background-size: cover;
+  min-height: 600px;
+}
+
+.banner-container {
+  position: relative;
+  height: 600px;
+  overflow: hidden;
+}
+
+.banner-container img {
+  position: absolute;
+  top: -60px;
+}
+
+.overlay-bg {
+  background-color: var(--primary-color);
+}
