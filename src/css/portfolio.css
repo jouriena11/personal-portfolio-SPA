@@ -48,11 +48,36 @@
 .flip-img-chat {
   background-image: url('../../public/img/chat-support-app.jpg');
   background-size: cover;
-  /* background-blend-mode: overlay; */
   /* background-position: center; */
+}
+
+.flip-title-front {
+  background-color: rgba(0,0,0,0.6);
+  color: white;
+  background-blend-mode: overlay;
 }
 
 .flip-img-movie-search {
   background-image: url('../../public/img/what-to-watch.jpg');
+  background-size: cover;
+}
+
+.flip-img-tech-blog {
+  background-image: url('../../public/img/tech-blog-app.jpg');
+  background-size: cover;
+}
+
+.flip-img-pwa-text-editor {
+  background-image: url('../../public/img/pwa-text-editor.jpg');
+  background-size: cover;
+}
+
+.flip-img-pwa-scheduler-calendar-app {
+  background-image: url('../../public/img/scheduler-calendar-app.jpg');
+  background-size: cover;
+}
+
+.flip-img-pwa-weather-forecast-app {
+  background-image: url('../../public/img/weather-forecast-app.jpg');
   background-size: cover;
 }
