@@ -2,7 +2,7 @@ import React from "react";
 // import stylePort from '../css/portfolio.module.css';
 import "../css/portfolio.css";
 
-export default function Portfolio() {
+export default function Project() {
   return (
     <div className="container-fluid">
       <div className="mx-5 my-4">

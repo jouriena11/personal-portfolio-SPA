@@ -1,6 +1,7 @@
 {
   "name": "w20-react-personal-portfolio",
   "version": "0.1.0",
+  "homepage": "https://jouriena11.github.io/personal-portfolio-spa/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",

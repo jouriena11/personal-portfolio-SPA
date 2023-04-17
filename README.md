@@ -5,7 +5,7 @@
 
 ---
 ## **URLs**
-- [Deployed Application]()
+- [Deployed Application](https://jt-personal-portfolio.herokuapp.com/)
 - [GitHub Repository URL](https://github.com/jouriena11/personal-portfolio-spa)
 
 ---
