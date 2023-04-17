@@ -5,7 +5,7 @@ export default function Resume() {
     <div className="mx-5 my-4 text-left">
       <div className="d-flex justify-content-between">
         <h2 className="fw-bold">Resume</h2>
-        <a href="/full-stack-developer_John-Teeraprasert.pdf">
+        <a href="/full-stack-developer_John-Teeraprasert.pdf" download = "full-stack-developer_John-Teeraprasert.pdf">
           <button className="btn btn-info fw-bold text-white">Download</button>
         </a>
       </div>

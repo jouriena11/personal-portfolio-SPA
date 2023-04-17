@@ -28,7 +28,7 @@ export default function Project() {
                   href="https://chat-support-999.herokuapp.com/"
                   target="_blank"
                 >
-                  <button type="button" class="btn btn-primary mx-1">
+                  <button type="button" className="btn btn-primary mx-1">
                     Try it
                   </button>
                 </a>
@@ -36,7 +36,7 @@ export default function Project() {
                   href="https://github.com/jouriena11/chat-support"
                   target="_blank"
                 >
-                  <button type="button" class="btn btn-secondary mx-1">
+                  <button type="button" className="btn btn-secondary mx-1">
                     GitHub
                   </button>
                 </a>
@@ -62,7 +62,7 @@ export default function Project() {
                   href="https://e73707.github.io/Movie-search-engine/"
                   target="_blank"
                 >
-                  <button type="button" class="btn btn-primary mx-1">
+                  <button type="button" className="btn btn-primary mx-1">
                     Try it
                   </button>
                 </a>
@@ -70,7 +70,7 @@ export default function Project() {
                   href="https://github.com/E73707/Movie-search-engine"
                   target="_blank"
                 >
-                  <button type="button" class="btn btn-secondary mx-1">
+                  <button type="button" className="btn btn-secondary mx-1">
                     GitHub
                   </button>
                 </a>
@@ -96,7 +96,7 @@ export default function Project() {
                   href="https://tech-blog-999.herokuapp.com/"
                   target="_blank"
                 >
-                  <button type="button" class="btn btn-primary mx-1">
+                  <button type="button" className="btn btn-primary mx-1">
                     Try it
                   </button>
                 </a>
@@ -104,7 +104,7 @@ export default function Project() {
                   href="https://github.com/jouriena11/tech-blog-mvc"
                   target="_blank"
                 >
-                  <button type="button" class="btn btn-secondary mx-1">
+                  <button type="button" className="btn btn-secondary mx-1">
                     GitHub
                   </button>
                 </a>
@@ -130,7 +130,7 @@ export default function Project() {
                   href="https://jt-pwa-text-editor.herokuapp.com/"
                   target="_blank"
                 >
-                  <button type="button" class="btn btn-primary mx-1">
+                  <button type="button" className="btn btn-primary mx-1">
                     Try it
                   </button>
                 </a>
@@ -138,7 +138,7 @@ export default function Project() {
                   href="https://github.com/jouriena11/text-editor-PWA"
                   target="_blank"
                 >
-                  <button type="button" class="btn btn-secondary mx-1">
+                  <button type="button" className="btn btn-secondary mx-1">
                     GitHub
                   </button>
                 </a>
@@ -164,7 +164,7 @@ export default function Project() {
                   href="https://jouriena11.github.io/W5-challenge-scheduler-calendar-app/"
                   target="_blank"
                 >
-                  <button type="button" class="btn btn-primary mx-1">
+                  <button type="button" className="btn btn-primary mx-1">
                     Try it
                   </button>
                 </a>
@@ -172,7 +172,7 @@ export default function Project() {
                   href="https://github.com/jouriena11/W5-challenge-scheduler-calendar-app"
                   target="_blank"
                 >
-                  <button type="button" class="btn btn-secondary mx-1">
+                  <button type="button" className="btn btn-secondary mx-1">
                     GitHub
                   </button>
                 </a>
@@ -198,7 +198,7 @@ export default function Project() {
                   href="https://jouriena11.github.io/weather-forecast-by-city-dashboard/"
                   target="_blank"
                 >
-                  <button type="button" class="btn btn-primary mx-1">
+                  <button type="button" className="btn btn-primary mx-1">
                     Try it
                   </button>
                 </a>
@@ -206,7 +206,7 @@ export default function Project() {
                   href="https://github.com/jouriena11/weather-forecast-by-city-dashboard"
                   target="_blank"
                 >
-                  <button type="button" class="btn btn-secondary mx-1">
+                  <button type="button" className="btn btn-secondary mx-1">
                     GitHub
                   </button>
                 </a>

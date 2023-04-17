@@ -1,4 +1,5 @@
 import React from "react";
+import profilePic from "../images/jt-profile-photo.jpg";
 
 export default function About() {
   return (
@@ -10,7 +11,7 @@ export default function About() {
       <div className="row mx-5 my-4">
         <div className="col-5 col-md-4 col-xl-3 my-2">
           <img
-            src="/img/jt-profile-photo.jpg"
+            src={profilePic}
             width="100%"
             alt="piyawit-teeraprasert-profile-photo"
           />
