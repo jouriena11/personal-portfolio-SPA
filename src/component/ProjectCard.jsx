@@ -4,8 +4,8 @@ export default function ProjectCard({title, content, bgImgClass, GitHubLink, dep
   return (
     <div className="flip-box my-3 mx-2">
           <div className="flip-box-inner">
-            <div className={`flip-box-front py-3 ${bgImgClass}`}>
-              <h2 className="py-3 my-5 flip-title-front">{title}</h2>
+            <div className={`flip-box-front py-3 d-flex align-items-center ${bgImgClass}`}>
+              <h2 className="py-3 my-5 flip-title-front w-100">{title}</h2>
             </div>
             <div className="flip-box-back py-4 d-flex flex-column justify-content-between">
               <div className="mt-3">

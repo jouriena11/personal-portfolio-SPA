@@ -7,7 +7,7 @@ export default function Footer() {
                 <img
                     height="32px"
                     className="mx-3"
-                    src="/img/icon-github.png"
+                    src="img/icon-github.png"
                     alt="github-icon-with-embedded-link-to-jouriena11-page"
                 />
             </a>
@@ -15,7 +15,7 @@ export default function Footer() {
                 <img
                     height="32px"
                     className="mx-3"
-                    src="/img/icon-linkedin.png"
+                    src="img/icon-linkedin.png"
                     alt="linkedin-icon-with-embedded-link-to-the-author-linkedin-page"
                 />
             </a>
@@ -23,7 +23,7 @@ export default function Footer() {
                 <img
                     height="32px"
                     className="mx-3"
-                    src="/img/icon-stackoverflow.png"
+                    src="img/icon-stackoverflow.png"
                     alt="stackoverflow-icon-with-embedded-link-to-the-author-stackoverflow-page"
                 />
             </a>
@@ -31,7 +31,7 @@ export default function Footer() {
                 <img
                     height="32px"
                     className="mx-3"
-                    src="/img/icon-twitter.png"
+                    src="img/icon-twitter.png"
                     alt="twitter-icon-with-embedded-link-to-the-author-twitter-account"
                 />
             </a>

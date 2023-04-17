@@ -11,7 +11,7 @@ The web app is divided into 3 main components:
 
 ---
 ## **URLs**
-- [Deployed Application]()
+- [Deployed Application](https://jouriena11.github.io/personal-portfolio-spa)
 - [GitHub Repository URL](https://github.com/jouriena11/personal-portfolio-spa)
 
 ---
