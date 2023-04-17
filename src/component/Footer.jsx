@@ -12,7 +12,7 @@ export default function Footer() {
                 <img
                     height="32px"
                     className="mx-3"
-                    src="/img/icon-github.jpg"
+                    src="/img/icon-github.png"
                     alt="github-icon-with-embedded-link-to-jouriena11-page"
                 />
             </a>
