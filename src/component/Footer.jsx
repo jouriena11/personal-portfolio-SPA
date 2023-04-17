@@ -3,11 +3,6 @@ import React from 'react'
 export default function Footer() {
     return (
         <footer className="d-flex align-items-center justify-content-center my-4 py-2">
-                            <i class="bi bi-github" 
-                    height="32px"
-                    className="mx-3"
-                    alt="github-icon-with-embedded-link-to-jouriena11-page">
-                </i>
             <a href="https://github.com/jouriena11" target="_blank">
                 <img
                     height="32px"
