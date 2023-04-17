@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/jouriena11/personal-portfolio-spa/static/css/main.f868fab5.css",
-    "main.js": "/jouriena11/personal-portfolio-spa/static/js/main.4d9fff01.js",
-    "static/js/787.abc1785f.chunk.js": "/jouriena11/personal-portfolio-spa/static/js/787.abc1785f.chunk.js",
-    "static/media/full-stack-portfolio-banner_1920px.png": "/jouriena11/personal-portfolio-spa/static/media/full-stack-portfolio-banner_1920px.f1403b7b11279769c667.png",
-    "static/media/what-to-watch.jpg": "/jouriena11/personal-portfolio-spa/static/media/what-to-watch.cf87e2402fb5a134e20f.jpg",
-    "static/media/weather-forecast-app.jpg": "/jouriena11/personal-portfolio-spa/static/media/weather-forecast-app.7ae266a662ef3955f0bf.jpg",
-    "static/media/chat-support-app.jpg": "/jouriena11/personal-portfolio-spa/static/media/chat-support-app.a27d48bc81e66e1f2149.jpg",
-    "static/media/tech-blog-app.jpg": "/jouriena11/personal-portfolio-spa/static/media/tech-blog-app.586919197609bc075e72.jpg",
-    "static/media/scheduler-calendar-app.jpg": "/jouriena11/personal-portfolio-spa/static/media/scheduler-calendar-app.98380db1b22513eade1a.jpg",
-    "static/media/pwa-text-editor.jpg": "/jouriena11/personal-portfolio-spa/static/media/pwa-text-editor.f51205e443be4d69252c.jpg",
-    "static/media/jt-profile-photo.jpg": "/jouriena11/personal-portfolio-spa/static/media/jt-profile-photo.ac58f9f926d8a643a625.jpg",
-    "index.html": "/jouriena11/personal-portfolio-spa/index.html",
-    "main.f868fab5.css.map": "/jouriena11/personal-portfolio-spa/static/css/main.f868fab5.css.map",
-    "main.4d9fff01.js.map": "/jouriena11/personal-portfolio-spa/static/js/main.4d9fff01.js.map",
-    "787.abc1785f.chunk.js.map": "/jouriena11/personal-portfolio-spa/static/js/787.abc1785f.chunk.js.map"
+    "main.css": "/personal-portfolio-spa/static/css/main.0007545f.css",
+    "main.js": "/personal-portfolio-spa/static/js/main.0403ccff.js",
+    "static/js/787.abc1785f.chunk.js": "/personal-portfolio-spa/static/js/787.abc1785f.chunk.js",
+    "static/media/full-stack-portfolio-banner_1920px.png": "/personal-portfolio-spa/static/media/full-stack-portfolio-banner_1920px.f1403b7b11279769c667.png",
+    "static/media/what-to-watch.jpg": "/personal-portfolio-spa/static/media/what-to-watch.cf87e2402fb5a134e20f.jpg",
+    "static/media/weather-forecast-app.jpg": "/personal-portfolio-spa/static/media/weather-forecast-app.7ae266a662ef3955f0bf.jpg",
+    "static/media/chat-support-app.jpg": "/personal-portfolio-spa/static/media/chat-support-app.a27d48bc81e66e1f2149.jpg",
+    "static/media/tech-blog-app.jpg": "/personal-portfolio-spa/static/media/tech-blog-app.586919197609bc075e72.jpg",
+    "static/media/scheduler-calendar-app.jpg": "/personal-portfolio-spa/static/media/scheduler-calendar-app.98380db1b22513eade1a.jpg",
+    "static/media/pwa-text-editor.jpg": "/personal-portfolio-spa/static/media/pwa-text-editor.f51205e443be4d69252c.jpg",
+    "static/media/jt-profile-photo.jpg": "/personal-portfolio-spa/static/media/jt-profile-photo.ac58f9f926d8a643a625.jpg",
+    "index.html": "/personal-portfolio-spa/index.html",
+    "main.0007545f.css.map": "/personal-portfolio-spa/static/css/main.0007545f.css.map",
+    "main.0403ccff.js.map": "/personal-portfolio-spa/static/js/main.0403ccff.js.map",
+    "787.abc1785f.chunk.js.map": "/personal-portfolio-spa/static/js/787.abc1785f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f868fab5.css",
-    "static/js/main.4d9fff01.js"
+    "static/css/main.0007545f.css",
+    "static/js/main.0403ccff.js"
   ]
 }
