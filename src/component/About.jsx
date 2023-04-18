@@ -5,7 +5,7 @@ export default function About() {
   return (
     <section className="container-fluid">
       <div className="mx-5 my-4">
-        <h2 className="fw-bold">About</h2>
+        <h2 className="fw-bold">About Me</h2>
         <hr className="w-100 my-3 border-2" />
       </div>
       <div className="row mx-5 my-4">

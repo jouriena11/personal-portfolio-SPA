@@ -1,4 +1,4 @@
-# **Personal Portfolio created with React
+# **Personal Portfolio created with React**
 
 ## **Project Description**
 
@@ -62,24 +62,30 @@ which must be installed separately
 As this is my personal portfolio web app, it's unlikely that you would be running it in your local server, so I'll focus mainly on how the web app is expected to behave.
 
 As you visit my portolio web app for the first time, the `'About Me'` section will be the first page you see.
-`(image)`
+
+In the footer, GitHub, LinkedIn, StackOverflow, and Twitter icons will each redirect you to my personal accounts on  that respective platform.
+<br><br>
+
+![`About Me` section. Icons in the footer.](./src/images/readme/about-me.jpg)
 
 As you hover your mouse over a navigation menu, the font color of that menu would change. 
 
-As you click on one of the navigation menu, the section content would change to a different content that corresponds to the selected menu. At the same time, the menu would change its color and accompanied by an underline of the same color, confirming that this is indeed the selected menu. The color would revert to black and the underline would disappear as you select another navigation menu.
-`(image)`
+As you click on one of the navigation menu, the section content would change to a different content that corresponds to the selected menu. At the same time, an underline would be displayed under the selected menu, confirming that the menu is currently active. The underline would disappear as you select another navigation menu.
 
-When you click on `Portfolio` menu, you'll see snapshot images of my other projects. As you hover your mouse over each of these images, it will flip to the back, showing you a list of technologies used in that particular project as well as button links to corresponding GitHub repository and deployed application. 
-`(image)`
+When you click on `Portfolio` menu, you'll see snapshot images of my other projects. As you hover your mouse over each of these images, it will flip to the back, showing you a list of technologies used in that particular project as well as button links to corresponding deployed application and GitHub repository.   
+<br>
+
+![`Porfolio` section. Project cards are flipping images. The back of the card contains button links](./src/images/readme/portfolio-page.jpg)
 
 When you click on `Contact` menu, you'll be presented with a contact form with built-in auto-validation. The built-in validation would prevent you from submitting a blank form or entering an invalid email. An error message would appear below the `Send` button if any invalid input is present.
-`(image)`
+<br>
 
-When you click on `Resume`, you'll be presented with my resume page on the web app. If you click on `'Download'` button on the top right of the section, you'll be redirected to a browser-rendered PDF page from where you can print my resume.
-`(image)`
+![`Contact` form with built-in validation](./src/images/readme/contact-form.jpg)
 
-In the footer, GitHub, LinkedIn, StackOverflow, and Twitter icons will each redirect you to my personal accounts on  that respective platform.
-`(image)`
+When you click on `Resume`, you'll be presented with my resume page on the web app. Once you click on `'Download'` button on the top right of the section, my resume PDF file would be automatically downloaded to your local computer.
+<br>
+
+![`Resume` with download button](./src/images/readme/resume.jpg)
 
 ---
 ## **Future Development**

@@ -127,7 +127,7 @@ export default function Contact() {
       </div>
       {errorMessage && (
         <div>
-          <p className="text-danger fw-bold mb-4">{errorMessage}</p>
+          <p className="text-danger fw-bold my-3">{errorMessage}</p>
         </div>
       )}
     </div>
