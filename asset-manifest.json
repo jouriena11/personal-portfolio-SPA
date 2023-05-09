@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/personal-portfolio-spa/static/css/main.0007545f.css",
-    "main.js": "/personal-portfolio-spa/static/js/main.e55efd01.js",
+    "main.css": "/personal-portfolio-spa/static/css/main.2a18ffd7.css",
+    "main.js": "/personal-portfolio-spa/static/js/main.043e02eb.js",
     "static/js/787.abc1785f.chunk.js": "/personal-portfolio-spa/static/js/787.abc1785f.chunk.js",
     "static/media/full-stack-portfolio-banner_1920px.png": "/personal-portfolio-spa/static/media/full-stack-portfolio-banner_1920px.f1403b7b11279769c667.png",
     "static/media/what-to-watch.jpg": "/personal-portfolio-spa/static/media/what-to-watch.cf87e2402fb5a134e20f.jpg",
@@ -10,14 +10,15 @@
     "static/media/tech-blog-app.jpg": "/personal-portfolio-spa/static/media/tech-blog-app.586919197609bc075e72.jpg",
     "static/media/scheduler-calendar-app.jpg": "/personal-portfolio-spa/static/media/scheduler-calendar-app.98380db1b22513eade1a.jpg",
     "static/media/pwa-text-editor.jpg": "/personal-portfolio-spa/static/media/pwa-text-editor.f51205e443be4d69252c.jpg",
+    "static/media/pos-order-consolidator.jpg": "/personal-portfolio-spa/static/media/pos-order-consolidator.8ba9bead6bd0831f5092.jpg",
     "static/media/jt-profile-photo.jpg": "/personal-portfolio-spa/static/media/jt-profile-photo.ac58f9f926d8a643a625.jpg",
     "index.html": "/personal-portfolio-spa/index.html",
-    "main.0007545f.css.map": "/personal-portfolio-spa/static/css/main.0007545f.css.map",
-    "main.e55efd01.js.map": "/personal-portfolio-spa/static/js/main.e55efd01.js.map",
+    "main.2a18ffd7.css.map": "/personal-portfolio-spa/static/css/main.2a18ffd7.css.map",
+    "main.043e02eb.js.map": "/personal-portfolio-spa/static/js/main.043e02eb.js.map",
     "787.abc1785f.chunk.js.map": "/personal-portfolio-spa/static/js/787.abc1785f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0007545f.css",
-    "static/js/main.e55efd01.js"
+    "static/css/main.2a18ffd7.css",
+    "static/js/main.043e02eb.js"
   ]
 }
