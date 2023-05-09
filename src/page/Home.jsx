@@ -6,7 +6,7 @@ import Banner from "../component/Banner";
 import Contact from "../component/Contact";
 import Portfolio from "../component/Portfolio";
 import Resume from "../component/Resume"
-import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import { BrowserRouter as Router, HashRouter, Routes, Route } from "react-router-dom";
 
 export default function Home() {
   return (

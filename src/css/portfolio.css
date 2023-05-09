@@ -81,3 +81,8 @@
   background-image: url('../../public/img/weather-forecast-app.jpg');
   background-size: cover;
 }
+
+.flip-img-pos-order-consolidator-app {
+  background-image: url('../../public/img/pos-order-consolidator.jpg');
+  background-size: cover;
+}

@@ -20,7 +20,7 @@ The web app is divided into 3 main components:
 - [Technologies Used](#technologies-used)
 - [Usage](#usage--expected-behavior)
 - [Future Developments](#future-development)
-- [Contact]()
+- [Contact](#contact)
 
 ---
 ## **Installation**

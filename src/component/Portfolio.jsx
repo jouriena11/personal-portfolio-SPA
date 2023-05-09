@@ -11,6 +11,13 @@ export default function Portfolio() {
         <hr className="w-100 my-3 border-2" />
       </div>
       <div className="row d-flex justify-content-center">
+      <ProjectCard
+          title="POS Web App with Order Consolidation Functionality"
+          content="MERN | Redux | JavaScript | Material UI | GraphQL x Apollo Server"
+          bgImgClass="flip-img-pos-order-consolidator-app" // TODO: to upload image and change file path
+          GitHubLink="https://github.com/jouriena11/pos-order-consolidator"
+          deployApp="https://post-order-consolidator.herokuapp.com/"
+        />
         <ProjectCard
           title="Chat Support"
           content="Node.js | Express.js | MySql | Socket.io | JavaScript"
