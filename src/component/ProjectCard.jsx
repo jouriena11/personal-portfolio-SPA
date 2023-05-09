@@ -17,7 +17,7 @@ export default function ProjectCard({title, content, bgImgClass, GitHubLink, dep
               </div>
               <div>
                 <a
-                  href={GitHubLink}
+                  href={deployApp}
                   target="_blank"
                 >
                   <button type="button" className="btn btn-primary mx-1">
@@ -25,7 +25,7 @@ export default function ProjectCard({title, content, bgImgClass, GitHubLink, dep
                   </button>
                 </a>
                 <a
-                  href={deployApp}
+                  href={GitHubLink}
                   target="_blank"
                 >
                   <button type="button" className="btn btn-secondary mx-1">
