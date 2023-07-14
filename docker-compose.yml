@@ -1,0 +1,15 @@
+version: '3.1'
+
+services:
+    personal-portfolio-node:
+    container_name: personal-portfolio-node
+    image: node:18.16.1-alpine
+    restart: always
+    volumes: 
+      - .:/usr/src/app
+    working_dir: /usr/src/app
+    ports: 
+      - 7841:3000
+    command: >
+      /bin/sh -c "npm install
+      && npm start"
